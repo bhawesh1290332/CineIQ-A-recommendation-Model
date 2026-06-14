@@ -8,7 +8,7 @@ We built a recommendation model based on hybrid scoring of SVD and TF-IDF cosine
 
 ##  Local Setup (Windows)
 
-### Step 1 — Create a virtual environmen
+### Step 1 — Create a virtual environment
 ```bash
 python -m venv venv
 ```
@@ -34,6 +34,9 @@ streamlit run APP.py
 ---
 
 ##  Pipeline
+
+For the detailed explanation refer to CineIQ_Explanatory_Doc.pdf. Theoretical aspect
+of the project has been covered in that pdf file.
 
 ```
 User Input (User ID / Genre)
