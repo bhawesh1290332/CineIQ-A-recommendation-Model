@@ -84,7 +84,8 @@ these files should be present in project folder:
 CineIQ/
 ├── APP.py
 ├── CineIQ1.ipynb
-├── requirements.txt
+├── requirements_cineiq.txt
+├── tmdb.env file which contains your TMDB token for fetching reviews (example file is given just paste your token there) 
 ├── ratings.csv
 ├── movies_metadata.csv
 ├── links.csv
