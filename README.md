@@ -94,7 +94,7 @@ CineIQ/
 ├── IMDB Dataset.csv
 └── distilbert-sentiment-final/
 
-Copy example.env to .env and fill in your own token there.
+Copy example.env to file named .env and fill in your own token there.
 
 distilbert-sentiment-final/, svd_model.pkl, and reviews_cache.db files will be obtained on running the CineIQ1.ipynb,
 for fetching reviews from TMBD site it will take somewhere around 2.5 hours since it is obtaining close to 10k reviews,
