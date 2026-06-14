@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+scikit-surprise
+torch
+transformers
+lime
+nltk
+requests
+mlflow
+pickle5
+python-dotenv
