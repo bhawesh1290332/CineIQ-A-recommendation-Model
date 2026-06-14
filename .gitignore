@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific (CineIQ)
+*.pkl
+*.db
+distilbert-sentiment/
+distilbert-sentiment-final/
+reviews_cache.db
+ratings.csv
+links.csv
+movies_metadata.csv
