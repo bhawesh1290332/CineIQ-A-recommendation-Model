@@ -85,7 +85,7 @@ CineIQ/
 ├── APP.py
 ├── CineIQ1.ipynb
 ├── requirements_cineiq.txt
-├── tmdb.env file which contains your TMDB token for fetching reviews (example file is given just paste your token there) 
+├── .env file which contains your TMDB token 
 ├── ratings.csv
 ├── movies_metadata.csv
 ├── links.csv
@@ -94,6 +94,7 @@ CineIQ/
 ├── IMDB Dataset.csv
 └── distilbert-sentiment-final/
 
+Copy example.env to .env and fill in your own token there.
 
 distilbert-sentiment-final/, svd_model.pkl, and reviews_cache.db files will be obtained on running the CineIQ1.ipynb,
 for fetching reviews from TMBD site it will take somewhere around 2.5 hours since it is obtaining close to 10k reviews,
