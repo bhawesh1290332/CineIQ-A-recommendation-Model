@@ -21,7 +21,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 
 ### Step 3 — install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r requirements_cineiq.txt
 ```
 
 ### Step 4 — run App.py
