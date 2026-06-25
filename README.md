@@ -118,3 +118,8 @@ are the ones stated in the problem statement and are readily available online.
 | Explainability | LIME |
 | Frontend | Streamlit |
 | Experiment Tracking | MLflow |
+
+## Team
+
+*Ankit Kumar Sinha · Vaidik Maheshwari · Bhawesh Kumar Agrawal*
+Problem Statement by Coding Club IIT Guwahati
